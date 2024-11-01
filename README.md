@@ -1,79 +1,86 @@
-# Vivek Srivastava
+**Vivek Srivastava**
 
-Hello! I'm Vivek, a seasoned professional with expertise as a Solution Architect, Python Django Lead Developer, and React.js TypeScript Lead Developer. I'm passionate about designing scalable solutions, leading technical teams, and staying updated with the latest in web development.
+**Developer & Software Engineer | DevOps, Full Stack Development & AI Integration Expert**
 
-With over a decade of experience in software development, I've been at the forefront of setting up technical processes and assembling teams for budding startups. My approach has always been centered around delivering an unparalleled experience to the end-user, rather than just rolling out a product. Juggling multiple projects simultaneously, I've honed my skills in multitasking and ensuring each project receives the attention it deserves. Above all, I firmly believe in fostering a culture of continuous learning within my teams, enhancing both productivity and skill sets. My commitment lies in not just leading teams but cultivating an environment where innovation thrives.
+---
 
+### **Summary**
 
+Results-driven Developer & Software Engineer with over 10 years of IT experience, including 5+ years working extensively on AWS, with expertise across other major cloud platforms (GCP, Azure) and hands-on experience in AI/ML integration. Skilled in designing, deploying, and fine-tuning custom machine learning models for business-specific applications, leveraging AWS AI/ML services (SageMaker, Rekognition, Lex) and cloud-native architectures. Proficient in full-stack development (React, Django), infrastructure as code (Terraform, CloudFormation, AWS CDK), and serverless technologies (Lambda, DynamoDB, S3).
 
-## Expertise
+Experienced in transforming complex business problems into scalable technical solutions, including data pipelines for AI/ML workflows, API-driven integrations, and end-to-end DevOps pipelines for model deployment and monitoring. Known for promoting Agile methodologies and leading cross-functional teams in high-throughput, cloud-native environments.
 
-| Role                              | Skills & Technologies                                                                                                       |
-|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| **Solution Architect**            | Solution Design, Technical Leadership, Cloud Platforms (AWS), Enterprise Architecture, Microservices, Integration Patterns, Infrastructure as Code (IaC), DevOps, API Design, Security, Performance Tuning, Scalability, Agile Methodologies, Cost Optimization, Prototyping, Data Modeling, Vendor Management, Continuous Improvement, Business Acumen |
-| **Python Django Lead Developer**  | Django Framework, Python, ORM, RESTful APIs, Middleware, Database Design, Migration, Caching, Authentication & Authorization, Celery, Unit Testing, Front-end Integration, Version Control (Git), CI/CD, Agile Development, Leadership, Performance Optimization, Security, Websockets, Template Engines, Virtual Environments, Docker , Linux ,Postgres , SQL
-| **React.js TypeScript Developer**| React.js, TypeScript, Component Lifecycle, Hooks, Redux, React Router, Context API, Functional Components, JSX, Webpack, Babel, Styled Components, Performance Optimization, Testing (Jest, React Testing Library), Next.js, GraphQL, Version Control (Git), CI/CD, Agile Development, Leadership, Code Review, MobX, Design Systems, Accessibility (a11y), Responsive Design |
+---
 
+### **Technical Skills**
 
-## Experience
+- **Cloud Platforms & AI Services**: AWS (Lambda, DynamoDB, S3, Cognito, API Gateway, CloudFormation, EventBridge, SageMaker, Rekognition, Lex), GCP, Azure
+- **Languages & Frameworks**: Python, Node.js, JavaScript, TypeScript, Java, Go, Django, FastAPI, React, Next.js
+- **AI/ML Tools & Libraries**: TensorFlow, PyTorch, Scikit-Learn, SageMaker, MLflow, custom NLP and CV models, Feature Engineering, Model Fine-tuning
+- **DevOps & CI/CD**: GitLab CI/CD, Jenkins, AWS CDK, Docker, Kubernetes (EKS), Terraform, CloudFormation, Helm, Ansible, SAM, Spinnaker
+- **Data & Databases**: SQL, NoSQL, Postgres, Redis, Snowflake, Kafka, ETL, Data Pipelines, Data Warehousing, Data Preprocessing for ML
+- **Architecture & Design Patterns**: SOA, Microservices, Event-Driven Architecture, Domain-Driven Design, REST & GraphQL API Design, Security-focused architecture, Scalability
+- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, Sass, Less, CSS-in-JS (Styled Components, Emotion), Responsive Design, Semantic HTML, Accessibility
+- **Project Management**: Agile, Scrum, Kanban, Jira, Confluence, Stakeholder Management
 
-| Role                | Company/Organization                          | Duration                             | Location                 |
-|---------------------|-----------------------------------------------|--------------------------------------|--------------------------|
-| Solutions Architect | Data Axle                                     | Feb 2021 - Present                   | Pune, Maharashtra, India |
-| Technical Lead      | Incedo Inc.                                   | Sep 2017 - Jan 2021 (3 yrs 5 mos)    | Pune, Maharashtra, India |
-| Senior Associate    | Synechron                                     | Nov 2016 - Nov 2017 (1 yr 1 mo)      | Pune Area, India         |
-| Consultant          | GlobalLogic                                   | Sep 2015 - Oct 2016 (1 yr 2 mos)     | Gurgaon, India           |
-| Software Engineer   | Tieto                                         | Jan 2015 - Jun 2015 (6 mos)          | Pune Area, India         |
-| Project Engineer    | Centre for Development of Advanced Computing  | Sep 2013 - Jan 2015 (1 yr 5 mos)     | Pune Area, India         |
-| Software Developer  | FIITJEE Limited                               | Sep 2011 - Jan 2013 (1 yr 5 mos)     | Chennai Area, India      |
+---
 
+### **Professional Experience**
 
+#### **Developer & Software Engineer**
+**Data Axle, Pune**  
+**February 2021 - Present**
 
-## Education
+- **Technical Skills**: AWS (Lambda, DynamoDB, S3, API Gateway, SageMaker), Python, Node.js, Docker, Kubernetes (EKS), GitLab CI/CD, Terraform, AWS CDK, SOA, Microservices, REST API, GraphQL
+- Architected and deployed cloud-native solutions and AI-driven applications on AWS, reducing infrastructure costs by 20% and enhancing application availability by 30%.
+- Integrated custom NLP and computer vision models using SageMaker, enabling automated text classification and image recognition features, reducing manual review time by 50%.
+- Built scalable CI/CD pipelines for ML models, enabling continuous integration and monitoring, which led to a 40% reduction in deployment errors.
+- **Solution Design**: Converted business challenges into AI-enhanced solutions, cutting analysis time by 25% and ensuring high accuracy through custom models.
+- **Leadership**: Led a cross-functional team of 10+ engineers and data scientists, achieving a 50% improvement in project delivery, with ML model production deployments completed within two weeks.
 
-**Bachelor's in Information Technology**  
-Institute of Engineering and Technology, PTU Jalandhar  
-Graduated: 2011  
+#### **Technical Lead**
+**Incedo Inc., Pune**  
+**September 2017 - January 2021**
 
-## Certifications
+- **Technical Skills**: React, Django, Node.js, Docker, Kubernetes, Terraform, Ansible, SOA, Microservices, CI/CD, GitOps, AWS (Lambda, DynamoDB, S3), SageMaker, MLflow
+- Developed full-stack applications and integrated ML features, increasing user engagement by 40% with personalized recommendations powered by Scikit-Learn models.
+- Implemented microservices architecture with custom NLP models for customer service automation, reducing response times by 60%.
+- **AI Solution Design**: Spearheaded solution design involving custom model integration, reducing operational issues by 35% and improving processing accuracy.
+- **Leadership**: Managed a team of 8 engineers, achieving 100% on-time delivery and fostering a collaborative environment, which improved efficiency by 30%.
+- Led on-premise to cloud migration with AI/ML workload migration to AWS, achieving a 45% reduction in infrastructure costs and 60% improvement in deployment speed.
 
-**Post Graduate Diploma in Advanced Computing**  
-Centre for Development of Advanced Computing, Pune, India  
-2013  
+#### **Senior Associate**
+**Synechron, Pune**  
+**November 2016 - November 2017**
 
-## Projects
+- **Technical Skills**: Python, Django, Data Structures, SOLID Principles, Snowflake, ETL, Redis, SQL, Docker, Kubernetes, CloudWatch, SageMaker
+- Engineered scalable web applications and implemented ML-powered insights, increasing data processing efficiency by 25% and reducing response times by 40%.
+- Developed ETL pipelines on Snowflake and SageMaker workflows for training and deploying ML models, cutting data processing and model training time by 50%.
+- **Solution Design**: Addressed key performance bottlenecks in ML workflows, reducing latency by 30% and improving model accuracy.
+- **Leadership**: Mentored junior developers on best practices in ML model deployment, resulting in a 15% improvement in code quality and 20% reduction in bug resolution time. Liaised with clients, maintaining a 100% satisfaction rate.
 
-### Localization Projects Management Framework
-**Duration**: Sep 2013 - Jan 2015  
-The Localization Projects Management Framework was a comprehensive and robust software solution designed to address the complexities and challenges of managing multilingual projects. Its primary objective was to enable seamless collaboration among cross-functional teams and to facilitate the translation and adaptation of our products and services into various languages for a global audience.
+---
 
-### Edfora Studio
-**Duration**: Sep 2011 - May 2012  
-An interactive whiteboard includes all the hardware and software a teacher needs to launch your interactive classroom. The small, portable toolbar attaches magnetically to a typical dry erase board. When connected to a projector, lessons come to life with a projected display area up to 5 feet by 8 feet.
+### **Education**
 
-### Setting Up LMS for FIITJEE
-**Duration**: July 2012 - Jan 2013  
-**Role**: Individual Contributor  
-**Link**: [FIITJEE](https://fiitjee.com/)  
-Implemented a Learning Management System for FIITJEE to streamline educational content and resources.
+**Bachelor of Technology in Information Technology**  
+**Punjab Technical University**  
+August 2007 - July 2011
 
-### Service Management System for Apple Service Centers
-**Duration**: June 2015 - Present  
-**Link**: [EaseOn](https://easeon.in/)  
-Self-funded project to develop a comprehensive service management system tailored for Apple service centers.
+---
 
-### E-commerce Website at Snapdeal
-**Duration**: June 2015 - Aug 2016  
-**Role**: Individual Contributor  
-**Link**: [Snapdeal](https://www.snapdeal.com/)  
-Contributed to the development and enhancement of the e-commerce platform.
+### **Key Projects**
 
-### Tripwire Security Configuration Management (SCM) Solution & Tripwire IP360
-**Duration**: Sep 2017 - Jan 2021  
-**Role**: Technical Lead  
-Worked on the development and enhancement of Tripwire's security solutions, ensuring robustness and reliability.
+- **Cloud Migration & AI Integration**: Led a project to migrate on-premises systems to AWS, incorporating AI models for predictive analysis using SageMaker. Achieved a 30% improvement in prediction accuracy and a 45% cost reduction.
+- **AI-Enhanced Data Pipeline**: Architected a high-throughput data pipeline with Kafka, Snowflake, and ETL processes integrated with custom ML models, improving data processing times by 30%.
+- **Multi-tenant SaaS Platform with AI Features**: Designed a microservices-based SaaS application with React frontend and custom NLP models for automated insights, supporting multi-tenancy and robust security.
 
-### Data Axle Genie Cloud
-**Duration**: Feb 2021 - Present  
-**Role**: Solutions Architect  
-Leading the architectural decisions and implementations for Data Axle's cloud solutions.
+---
+
+### **Additional Information**
+
+- **Software Design & Best Practices**: Advocate of SOLID, DRY, KISS, and YAGNI principles for clean, maintainable, and scalable code.
+- **AI Model Optimization**: Skilled in feature engineering, hyperparameter tuning, and deployment optimization for custom NLP and computer vision models.
+- **Customer Engagement**: Experienced in pre-sales, customer success, and technical workshops, guiding clients through AI/ML use cases and best practices in cloud architecture.
+- **Leadership**: Skilled in leading diverse teams, aligning technical teams with project goals, and fostering a culture of innovation and collaboration.
+
